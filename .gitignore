@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.db
+*.log
+*.parquet
+artifacts/
+data/raw/
+.next/
+node_modules/
+.terraform/
+*.tfstate*
+*.tfvars

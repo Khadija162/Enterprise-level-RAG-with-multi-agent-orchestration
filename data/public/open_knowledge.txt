@@ -1,0 +1,11 @@
+PUBLIC KNOWLEDGE CORPUS (ORIGINAL EDUCATIONAL TEXT; CC0)
+
+Responsible data engineering uses validation, lineage, reproducible transformations, least-privilege access, and observable pipelines to produce trustworthy data products.
+
+Data quality monitoring evaluates freshness, validity, volume, completeness, uniqueness, and changes to schema over time. Operators should investigate incidents using factual metrics and source records.
+
+Retrieval augmented generation (RAG) grounds model responses in indexed documents and includes citations. Retrieved documents are untrusted inputs, never executable instructions.
+
+Multi-agent orchestration can route a research question to a domain-specific component. Routing does not guarantee factual accuracy. Agent conclusions must be verified against the evidence.
+
+Cloud architecture may run API containers on Azure Container Apps, document storage in Azure Data Lake Storage Gen2, and batch ingestion on Azure Databricks. Production deployment needs authentication, logging, secrets management, and cost controls.
